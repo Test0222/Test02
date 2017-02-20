@@ -1,0 +1,419 @@
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.dll
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.WebRequest.dll
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\TreeViewMS.dll
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.xml
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.WebRequest.xml
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm12in1.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm7in1.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm8in1.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMzBox.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.ServerMain.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmBacNet.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCameraNvr.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMHIC.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.CurtainForColorDLP.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCalculateTargetForColorDLP.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLP.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPACSetup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPTargets.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPUI.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCoolMaster.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmGPRS.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmLogic.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmLogicPin.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACModeSetup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACSetupForRCU.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCombinationWays.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDimTemplates.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBoundRate.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusRS232TargetForMHRCU.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusToRS232ForMHRCU.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMHRCU.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRS232BUSForMHRCU.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMiniSensor.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmEnviro.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEnviroUI.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCurtain.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmNetModule.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCamera.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPImageType.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEditPanlePicture.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHvacRelay.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmPage.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTSensor.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDimmer.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDLP.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDMX.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmEIB.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmFH.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmAbout.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMain.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmGScenes.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHAI.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHVAC.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIPMod.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIRlearner.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMultiRemoteSender.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMC.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMS04.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMSPU.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmPanel.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmDownloadShow.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmProcess.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.Properties.Resources.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCmdTemplates.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACSetup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmADVSearchDevice.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCalibrationLux.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCmdSetup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmButtonSetup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEditClock.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmHeatTargets.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmInfrared.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMAC.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmModifAddress.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmPassWork.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmReceiverTargets.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRefreshFlash.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRemark.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmSlave.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmUpgrade.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRelay.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRemote.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.BackNetID.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\CCT.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.Connetion.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\ConstantLux.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\CurtainChn.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.DateAndTime.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.DIY.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrequenceForAudio.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.IPAddressNew.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSetup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.IRControl.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\LogicChannel.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.MyImg.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.NetworkInForm.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.NewIRKeyID.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RelayChn.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.RelayExclusion.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RGB.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RGBW.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RowMergeView.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.SingleChn.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.UnivasalControl.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSecurity.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmManualFunctionLists.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmAdd.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmFunctionLists.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTest.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTirdPart.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSocket.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm4Temp.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSA.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBackup.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIRLibrary.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRaw.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRestrore.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmSignal.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTool.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmQC.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool.csproj.GenerateResource.Cache
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmAddNewCard.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorForDS.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDS.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmNewDS.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmChnAndKey.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmNewIREmitor.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.TimeText.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.UserForNewDoor.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusToRS232.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRS232.resources
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRS232BUS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.exe.config
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.exe
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.pdb
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\TreeViewMS.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm12in1.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm7in1.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm8in1.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMzBox.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.ServerMain.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmBacNet.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCameraNvr.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMHIC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.CurtainForColorDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCalculateTargetForColorDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPACSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPTargets.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPUI.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCoolMaster.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmAddNewCard.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorForDS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmNewDS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmGPRS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmLogic.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmLogicPin.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACModeSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACSetupForRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmChnAndKey.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmNewIREmitor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCombinationWays.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDimTemplates.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBoundRate.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusRS232TargetForMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusToRS232ForMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRS232BUSForMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMiniSensor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmEnviro.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEnviroUI.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCurtain.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmNetModule.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCamera.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPImageType.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEditPanlePicture.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHvacRelay.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmPage.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTSensor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDimmer.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDMX.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmEIB.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmFH.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmAbout.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMain.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmGScenes.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHAI.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHVAC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIPMod.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIRlearner.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMultiRemoteSender.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMS04.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMSPU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmPanel.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmDownloadShow.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmProcess.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCmdTemplates.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmADVSearchDevice.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCalibrationLux.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCmdSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmButtonSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEditClock.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmHeatTargets.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmInfrared.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMAC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmModifAddress.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmPassWork.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmReceiverTargets.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRefreshFlash.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRemark.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmSlave.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmUpgrade.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRelay.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRemote.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.BackNetID.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\CCT.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.Connetion.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\ConstantLux.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\CurtainChn.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.DateAndTime.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.DIY.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrequenceForAudio.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.IPAddressNew.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.IRControl.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\LogicChannel.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.MyImg.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.NetworkInForm.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.NewIRKeyID.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RelayChn.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.RelayExclusion.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RGB.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RGBW.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RowMergeView.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.SingleChn.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.TimeText.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.UnivasalControl.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.UserForNewDoor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusToRS232.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRS232.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRS232BUS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSecurity.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmManualFunctionLists.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmAdd.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmFunctionLists.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTest.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTirdPart.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSocket.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm4Temp.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSA.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBackup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIRLibrary.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRaw.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRestrore.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmSignal.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTool.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmQC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool 2.exe
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool 2.pdb
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool.csprojResolveAssemblyReference.cache
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool.csprojResolveAssemblyReference.cache
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool 2.exe
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.exe.config
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.exe
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.pdb
+E:\Desktop\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool 2.pdb
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm12in1.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm7in1.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm8in1.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMzBox.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.ServerMain.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmBacNet.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCameraNvr.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMHIC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.CurtainForColorDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCalculateTargetForColorDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPACSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPTargets.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPUI.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCoolMaster.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmAddNewCard.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorForDS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmNewDS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmGPRS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmLogic.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmLogicPin.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACModeSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACSetupForRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmChnAndKey.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmNewIREmitor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCombinationWays.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDimTemplates.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBoundRate.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusRS232TargetForMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusToRS232ForMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRS232BUSForMHRCU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMiniSensor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmEnviro.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEnviroUI.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCurtain.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmNetModule.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCamera.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmColorDLPImageType.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEditPanlePicture.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHvacRelay.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmPage.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTSensor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDimmer.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDLP.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmDMX.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmEIB.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmFH.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmAbout.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmGScenes.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHAI.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmHVAC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIPMod.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIRlearner.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMultiRemoteSender.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMS04.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmMSPU.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmPanel.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmDownloadShow.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmProcess.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.Properties.Resources.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCmdTemplates.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmACSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmADVSearchDevice.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmCalibrationLux.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmCmdSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmButtonSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmEditClock.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmHeatTargets.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmInfrared.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMAC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmModifAddress.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmPassWork.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmReceiverTargets.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRefreshFlash.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRemark.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmSlave.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmUpgrade.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRelay.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRemote.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.BackNetID.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\CCT.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.Connetion.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\ConstantLux.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\CurtainChn.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.DateAndTime.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.DIY.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrequenceForAudio.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.IPAddressNew.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSetup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.IRControl.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\LogicChannel.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.MyImg.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.NetworkInForm.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.NewIRKeyID.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RelayChn.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.RelayExclusion.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RGB.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RGBW.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\RowMergeView.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.SingleChn.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.TimeText.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.UnivasalControl.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.UserForNewDoor.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBusToRS232.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmRS232.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRS232BUS.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSecurity.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmManualFunctionLists.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmAdd.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmFunctionLists.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTest.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTirdPart.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSocket.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frm4Temp.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmSA.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmBackup.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmIRLibrary.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRaw.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmRestrore.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.FrmSignal.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmTool.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmQC.resources
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool 2.exe
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL Buspro Setup Tool 2.pdb
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.exe.config
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.exe
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\HDL Buspro Setup Tool 2.pdb
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\TreeViewMS.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.xml
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\bin\Debug\zh-Hans\System.Net.Http.WebRequest.resources.dll
+C:\Users\Administrator\Desktop\HDL Buspro Setup Tool 2017 01 25\HDL Buspro Setup Tool\HDL Buspro Setup Tool\obj\Debug\HDL_Buspro_Setup_Tool.frmMain.resources

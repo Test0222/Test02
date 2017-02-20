@@ -1,0 +1,1479 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5FC5F5C2-1EBB-4B9B-94FC-AD35C52C8C7F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>HDL_Buspro_Setup_Tool</RootNamespace>
+    <AssemblyName>HDL Buspro Setup Tool 2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <CodeAnalysisIgnoreGeneratedCode>false</CodeAnalysisIgnoreGeneratedCode>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>main.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>HDL_Buspro_Setup_Tool.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.JScript" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=11.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="MyDateTimePicker, Version=1.10.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MyDateTimePicker.dll</HintPath>
+    </Reference>
+    <Reference Include="MyMonthCalender, Version=1.10.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MyMonthCalender.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.WebRequest" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TreeViewMS">
+      <HintPath>Rewrite Controls\TreeViewMS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="12in1\12in1Sensor.cs" />
+    <Compile Include="12in1\12in1DeviceTypeList.cs" />
+    <Compile Include="12in1\frm12in1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="12in1\frm12in1.Designer.cs">
+      <DependentUpon>frm12in1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7in1\7in1DeviceTypeList.cs" />
+    <Compile Include="7in1\frm7in1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7in1\frm7in1.Designer.cs">
+      <DependentUpon>frm7in1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7in1\Sensor_7in1.cs" />
+    <Compile Include="8in1\8in1Sensor.cs" />
+    <Compile Include="8in1\8in1DeviceTypeList.cs" />
+    <Compile Include="8in1\frm8in1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8in1\frm8in1.designer.cs">
+      <DependentUpon>frm8in1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Audio\FrmMzBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Audio\FrmMzBox.Designer.cs">
+      <DependentUpon>FrmMzBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Audio\AudioDeviceTypeList.cs" />
+    <Compile Include="Audio\MzBox.cs" />
+    <Compile Include="Auto Upgrade\frmClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Auto Upgrade\frmClient.Designer.cs">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Auto Upgrade\PublicMethods.cs" />
+    <Compile Include="Bacnet\BacNet.cs" />
+    <Compile Include="Bacnet\BacNetDeviceTypeList.cs" />
+    <Compile Include="Bacnet\frmBacNet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bacnet\frmBacNet.Designer.cs">
+      <DependentUpon>frmBacNet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Camera NVR\CameraNVR.cs" />
+    <Compile Include="Camera NVR\CameraNvrDeviceType.cs" />
+    <Compile Include="Camera NVR\frmCameraNvr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Camera NVR\frmCameraNvr.Designer.cs">
+      <DependentUpon>frmCameraNvr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Card Reader\FrmMHIC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Card Reader\FrmMHIC.Designer.cs">
+      <DependentUpon>FrmMHIC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Card Reader\MHIC.cs" />
+    <Compile Include="Card Reader\MHICDeviceTypeList.cs" />
+    <Compile Include="Color DLP\ColorDLP.cs" />
+    <Compile Include="Color DLP\CurtainForColorDLP.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Color DLP\CurtainForColorDLP.Designer.cs">
+      <DependentUpon>CurtainForColorDLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Color DLP\EnviroDLPPanelDeviceTypeList.cs" />
+    <Compile Include="Color DLP\FrmCalculateTargetForColorDLP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Color DLP\FrmCalculateTargetForColorDLP.Designer.cs">
+      <DependentUpon>FrmCalculateTargetForColorDLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLP.Designer.cs">
+      <DependentUpon>FrmColorDLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLPACSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLPACSetup.Designer.cs">
+      <DependentUpon>FrmColorDLPACSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLPTargets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLPTargets.Designer.cs">
+      <DependentUpon>FrmColorDLPTargets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLPUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Color DLP\FrmColorDLPUI.Designer.cs">
+      <DependentUpon>FrmColorDLPUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CoolMaster\CoolMaster.cs" />
+    <Compile Include="CoolMaster\CoolMasterNet.cs" />
+    <Compile Include="CoolMaster\CoolMasterDeviceTypeList.cs" />
+    <Compile Include="CoolMaster\FrmCoolMaster.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CoolMaster\FrmCoolMaster.Designer.cs">
+      <DependentUpon>FrmCoolMaster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoorStation\DSDeviceTypeList.cs" />
+    <Compile Include="DoorStation\DS.cs" />
+    <Compile Include="DoorStation\FrmAddNewCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoorStation\FrmAddNewCard.Designer.cs">
+      <DependentUpon>FrmAddNewCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoorStation\FrmColorForDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoorStation\FrmColorForDS.Designer.cs">
+      <DependentUpon>FrmColorForDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoorStation\frmDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoorStation\frmDS.Designer.cs">
+      <DependentUpon>frmDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoorStation\FrmNewDS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoorStation\FrmNewDS.Designer.cs">
+      <DependentUpon>FrmNewDS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoorStation\NewDS.cs" />
+    <Compile Include="GPRS\frmGPRS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GPRS\frmGPRS.Designer.cs">
+      <DependentUpon>frmGPRS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GPRS\GPRS.cs" />
+    <Compile Include="GPRS\SMSModuleDeviceTypeList.cs" />
+    <Compile Include="IrSender\IrModuleDeviceTypeList.cs" />
+    <Compile Include="Logic\LogicDeviceTypeList.cs" />
+    <Compile Include="Logic\frmLogic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logic\frmLogic.Designer.cs">
+      <DependentUpon>frmLogic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\frmLogicPin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Logic\frmLogicPin.Designer.cs">
+      <DependentUpon>frmLogicPin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Logic\Logic.cs" />
+    <Compile Include="MHRCU\FrmACModeSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHRCU\FrmACModeSetup.Designer.cs">
+      <DependentUpon>FrmACModeSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHRCU\FrmACSetupForRCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHRCU\FrmACSetupForRCU.Designer.cs">
+      <DependentUpon>FrmACSetupForRCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IrSender\FrmChnAndKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IrSender\FrmChnAndKey.Designer.cs">
+      <DependentUpon>FrmChnAndKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IrSender\FrmNewIREmitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IrSender\FrmNewIREmitor.Designer.cs">
+      <DependentUpon>FrmNewIREmitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS04\MixHotelModuleWithZone.cs" />
+    <Compile Include="Public Methods\LoadControlsText.cs" />
+    <Compile Include="Public Setup Froms\FrmCombinationWays.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmCombinationWays.Designer.cs">
+      <DependentUpon>FrmCombinationWays.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmDimTemplates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmDimTemplates.Designer.cs">
+      <DependentUpon>frmDimTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmBoundRate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmBoundRate.Designer.cs">
+      <DependentUpon>FrmBoundRate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHRCU\FrmBusRS232TargetForMHRCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHRCU\FrmBusRS232TargetForMHRCU.Designer.cs">
+      <DependentUpon>FrmBusRS232TargetForMHRCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHRCU\FrmBusToRS232ForMHRCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHRCU\FrmBusToRS232ForMHRCU.Designer.cs">
+      <DependentUpon>FrmBusToRS232ForMHRCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHRCU\FrmMHRCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHRCU\FrmMHRCU.Designer.cs">
+      <DependentUpon>FrmMHRCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHRCU\FrmRS232BUSForMHRCU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MHRCU\FrmRS232BUSForMHRCU.Designer.cs">
+      <DependentUpon>FrmRS232BUSForMHRCU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MHRCU\HotelMixModuleDeviceType.cs" />
+    <Compile Include="MHRCU\MHRCU.cs" />
+    <Compile Include="MiniSensor\FrmMiniSensor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MiniSensor\FrmMiniSensor.Designer.cs">
+      <DependentUpon>FrmMiniSensor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MiniSensor\MINIUL.cs" />
+    <Compile Include="MiniSensor\MiniSenserDeviceTypeList.cs" />
+    <Compile Include="MS04\MS04GenerationOneT.cs" />
+    <Compile Include="MSPU\MSPUSenserDeviceTypeList.cs" />
+    <Compile Include="New Enviro Panel\EnviroNewDeviceTypeList.cs" />
+    <Compile Include="New Enviro Panel\EnviroPanel.cs" />
+    <Compile Include="New Enviro Panel\frmEnviro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Enviro Panel\frmEnviro.Designer.cs">
+      <DependentUpon>frmEnviro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New Enviro Panel\FrmEnviroUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New Enviro Panel\FrmEnviroUI.Designer.cs">
+      <DependentUpon>FrmEnviroUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Curtain\CurtainDeviceType.cs" />
+    <Compile Include="Curtain\Curtain.cs" />
+    <Compile Include="Curtain\frmCurtain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Curtain\frmCurtain.Designer.cs">
+      <DependentUpon>frmCurtain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\frmNetModule.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\frmNetModule.Designer.cs">
+      <DependentUpon>frmNetModule.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\frmCamera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\frmCamera.Designer.cs">
+      <DependentUpon>frmCamera.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\FrmColorDLPImageType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\FrmColorDLPImageType.Designer.cs">
+      <DependentUpon>FrmColorDLPImageType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\FrmEditPanlePicture.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\FrmEditPanlePicture.Designer.cs">
+      <DependentUpon>FrmEditPanlePicture.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\frmHvacRelay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\frmHvacRelay.Designer.cs">
+      <DependentUpon>frmHvacRelay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\FrmPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\FrmPage.Designer.cs">
+      <DependentUpon>FrmPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Device\frmTSensor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Device\frmTSensor.Designer.cs">
+      <DependentUpon>frmTSensor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dimmer\Dimmer.cs" />
+    <Compile Include="Dimmer\frmDimmer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dimmer\frmDimmer.designer.cs">
+      <DependentUpon>frmDimmer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dimmer\DimmerDeviceTypeList.cs" />
+    <Compile Include="DLP\frmDLP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DLP\frmDLP.Designer.cs">
+      <DependentUpon>frmDLP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DLP\DLPPanelDeviceTypeList.cs" />
+    <Compile Include="DLP\DLP.cs" />
+    <Compile Include="DMX\DMXDeviceTypeList.cs" />
+    <Compile Include="DMX\DMX.cs" />
+    <Compile Include="DMX\frmDMX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DMX\frmDMX.designer.cs">
+      <DependentUpon>frmDMX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EIB\EIBConverter.cs" />
+    <Compile Include="EIB\frmEIB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EIB\frmEIB.Designer.cs">
+      <DependentUpon>frmEIB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FH\FloorheatingDeviceTypeList.cs" />
+    <Compile Include="FH\FH.cs" />
+    <Compile Include="FH\frmFH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FH\frmFH.Designer.cs">
+      <DependentUpon>frmFH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GloableForm\frmGScenes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GloableForm\frmGScenes.Designer.cs">
+      <DependentUpon>frmGScenes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAI\frmHAI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HAI\frmHAI.Designer.cs">
+      <DependentUpon>frmHAI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HAI\HAI.cs" />
+    <Compile Include="HAI\HAIModuleDeviceTypeList.cs" />
+    <Compile Include="HVAC\frmHVAC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HVAC\frmHVAC.Designer.cs">
+      <DependentUpon>frmHVAC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HVAC\HVACModuleDeviceTypeList.cs" />
+    <Compile Include="HVAC\HVAC.cs" />
+    <Compile Include="IP Gateway\frmIPMod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IP Gateway\frmIPMod.Designer.cs">
+      <DependentUpon>frmIPMod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IP Gateway\IPModule.cs" />
+    <Compile Include="IP Gateway\IPmoduleDeviceTypeList.cs" />
+    <Compile Include="IR learner\CEMI.cs" />
+    <Compile Include="IR learner\frmIRlearner.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IR learner\frmIRlearner.Designer.cs">
+      <DependentUpon>frmIRlearner.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IR learner\Header.cs" />
+    <Compile Include="IR learner\HidDeclarations.cs" />
+    <Compile Include="IR learner\ReportHeader.cs" />
+    <Compile Include="IR learner\SendRecive.cs" />
+    <Compile Include="IR learner\UsbHidFind.cs" />
+    <Compile Include="IR learner\USBSharp.cs" />
+    <Compile Include="IrSender\FrmMultiRemoteSender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IrSender\FrmMultiRemoteSender.Designer.cs">
+      <DependentUpon>FrmMultiRemoteSender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IrSender\NewIR.cs" />
+    <Compile Include="IrSender\SendIR.cs" />
+    <Compile Include="MMC\ConstMMC.cs" />
+    <Compile Include="MMC\frmMC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MMC\frmMC.Designer.cs">
+      <DependentUpon>frmMC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MMC\MMC.cs" />
+    <Compile Include="MS04\MS04DeviceTypeList.cs" />
+    <Compile Include="MS04\frmMS04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS04\frmMS04.Designer.cs">
+      <DependentUpon>frmMS04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS04\MS04.cs" />
+    <Compile Include="MS04\MS04GenerationOne2R.cs" />
+    <Compile Include="MS04\MS04GenerationOneD.cs" />
+    <Compile Include="MS04\MS04GenerationOneCurtain.cs" />
+    <Compile Include="MSPU\FrmMSPU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MSPU\FrmMSPU.Designer.cs">
+      <DependentUpon>FrmMSPU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MSPU\MSPU.cs" />
+    <Compile Include="Normal Panel\PanelDeviceTypeList.cs" />
+    <Compile Include="Normal Panel\frmPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Normal Panel\frmPanel.Designer.cs">
+      <DependentUpon>frmPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Normal Panel\Panel.cs" />
+    <Compile Include="ProcessBar\FrmDownloadShow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessBar\FrmDownloadShow.designer.cs">
+      <DependentUpon>FrmDownloadShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProcessBar\FrmProcess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProcessBar\FrmProcess.Designer.cs">
+      <DependentUpon>FrmProcess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Public Methods\HdlUdpPublicFunctions.cs" />
+    <Compile Include="Public Methods\DataModule.cs" />
+    <Compile Include="Public Methods\GlobalClass.cs" />
+    <Compile Include="Public Methods\HDLPF.cs" />
+    <Compile Include="Public Methods\HDLSysPF.cs" />
+    <Compile Include="Public Setup Froms\frmCmdTemplates.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmCmdTemplates.Designer.cs">
+      <DependentUpon>frmCmdTemplates.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmACSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmACSetup.Designer.cs">
+      <DependentUpon>FrmACSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmADVSearchDevice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmADVSearchDevice.Designer.cs">
+      <DependentUpon>FrmADVSearchDevice.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmCalibrationLux .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmCalibrationLux .Designer.cs">
+      <DependentUpon>FrmCalibrationLux .cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmCmdSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmCmdSetup.Designer.cs">
+      <DependentUpon>frmCmdSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmButtonSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmButtonSetup.Designer.cs">
+      <DependentUpon>frmButtonSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmEditClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmEditClock.Designer.cs">
+      <DependentUpon>FrmEditClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmHeatTargets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmHeatTargets.Designer.cs">
+      <DependentUpon>FrmHeatTargets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmInfrared.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmInfrared.Designer.cs">
+      <DependentUpon>FrmInfrared.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmMAC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmMAC.Designer.cs">
+      <DependentUpon>frmMAC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmModifyAddress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmModifyAddress.Designer.cs">
+      <DependentUpon>frmModifyAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmPassWork.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmPassWork.Designer.cs">
+      <DependentUpon>FrmPassWork.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmReceiverTargets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmReceiverTargets.Designer.cs">
+      <DependentUpon>FrmReceiverTargets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmRefreshFlash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmRefreshFlash.Designer.cs">
+      <DependentUpon>frmRefreshFlash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmRemark.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmRemark.Designer.cs">
+      <DependentUpon>frmRemark.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmSlave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\FrmSlave.Designer.cs">
+      <DependentUpon>FrmSlave.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmUpgrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmUpgrade.Designer.cs">
+      <DependentUpon>frmUpgrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Struct &amp; Const\ButtonMode.cs" />
+    <Compile Include="Public Struct &amp; Const\ButtonControlType.cs" />
+    <Compile Include="Public Struct &amp; Const\ControlTemplates.cs" />
+    <Compile Include="Public Struct &amp; Const\DeviceTypeList.cs" />
+    <Compile Include="Public Struct &amp; Const\DimTemplates.cs" />
+    <Compile Include="Public Struct &amp; Const\DryControlType.cs" />
+    <Compile Include="Public Struct &amp; Const\DryMode.cs" />
+    <Compile Include="Public Struct &amp; Const\CsConst.cs" />
+    <Compile Include="PublicClass\ACSetting.cs" />
+    <Compile Include="Public Struct &amp; Const\SensorLogic.cs" />
+    <Compile Include="PublicClass\HdlDeviceBackupAndRestore.cs" />
+    <Compile Include="PublicClass\Curve2D.cs" />
+    <Compile Include="PublicClass\Curve2DII.cs" />
+    <Compile Include="PublicClass\EnviroMusic.cs" />
+    <Compile Include="PublicClass\EnviroFH.cs" />
+    <Compile Include="PublicClass\EnviroAc.cs" />
+    <Compile Include="PublicClass\FloorHeating.cs" />
+    <Compile Include="PublicClass\HDLButton.cs" />
+    <Compile Include="Public Struct &amp; Const\PublicClass.cs" />
+    <Compile Include="Public Struct &amp; Const\UVCMD.cs" />
+    <Compile Include="PublicClass\Area.cs" />
+    <Compile Include="PublicClass\BasicCurtain.cs" />
+    <Compile Include="PublicClass\BusToRs232.cs" />
+    <Compile Include="PublicClass\ConvertorType.cs" />
+    <Compile Include="PublicClass\DimmerChannel.cs" />
+    <Compile Include="PublicClass\DryContact.cs" />
+    <Compile Include="PublicClass\HdlDevice.cs" />
+    <Compile Include="PublicClass\IrReceive.cs" />
+    <Compile Include="PublicClass\IrSequence.cs" />
+    <Compile Include="PublicClass\NetworkInformation.cs" />
+    <Compile Include="PublicClass\NormalButton.cs" />
+    <Compile Include="PublicClass\RelayChannel.cs" />
+    <Compile Include="PublicClass\RemoteControlSetup.cs" />
+    <Compile Include="PublicClass\RFBlock.cs" />
+    <Compile Include="PublicClass\RFSetup.cs" />
+    <Compile Include="PublicClass\Rs232Param.cs" />
+    <Compile Include="PublicClass\Rs232ToBus.cs" />
+    <Compile Include="PublicClass\Scene.cs" />
+    <Compile Include="PublicClass\SecurityInfo.cs" />
+    <Compile Include="PublicClass\Sequence.cs" />
+    <Compile Include="PublicClass\SingleIrCode.cs" />
+    <Compile Include="PublicClass\TemperatureSource.cs" />
+    <Compile Include="PublicClass\UniversalSwitchSet.cs" />
+    <Compile Include="Relay\frmRelay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relay\frmRelay.Designer.cs">
+      <DependentUpon>frmRelay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relay\RelayDeviceTypeList.cs" />
+    <Compile Include="Relay\Relay.cs" />
+    <Compile Include="RemoteController\frmRemote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoteController\frmRemote.Designer.cs">
+      <DependentUpon>frmRemote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\BackNetID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\BackNetID.Designer.cs">
+      <DependentUpon>BackNetID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\CCT.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\CCT.designer.cs">
+      <DependentUpon>CCT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\Connetion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\Connetion.Designer.cs">
+      <DependentUpon>Connetion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\ConstantLux.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\ConstantLux.designer.cs">
+      <DependentUpon>ConstantLux.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\CurtainChn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\CurtainChn.designer.cs">
+      <DependentUpon>CurtainChn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\DateAndTime.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\DateAndTime.Designer.cs">
+      <DependentUpon>DateAndTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\DIY.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\DIY.Designer.cs">
+      <DependentUpon>DIY.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\FrequenceForAudio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\FrequenceForAudio.Designer.cs">
+      <DependentUpon>FrequenceForAudio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\IPAddress.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\IPAddress.Designer.cs">
+      <DependentUpon>IPAddress.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Public Setup Froms\frmSetup.Designer.cs">
+      <DependentUpon>frmSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\IRControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\IRControl.Designer.cs">
+      <DependentUpon>IRControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\LogicChannel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\LogicChannel.designer.cs">
+      <DependentUpon>LogicChannel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\MyImg.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\NetworkInForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\NetworkInForm.Designer.cs">
+      <DependentUpon>NetworkInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\NewIRKeyID.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\NewIRKeyID.Designer.cs">
+      <DependentUpon>NewIRKeyID.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\RelayChn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\RelayChn.designer.cs">
+      <DependentUpon>RelayChn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\RelayExclusion.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\RelayExclusion.Designer.cs">
+      <DependentUpon>RelayExclusion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\RGB.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\RGB.designer.cs">
+      <DependentUpon>RGB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\RGBW.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\RGBW.designer.cs">
+      <DependentUpon>RGBW.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\RowMergeView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\RowMergeView.designer.cs">
+      <DependentUpon>RowMergeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\SenceDesign.cs" />
+    <Compile Include="Rewrite Controls\SingleChn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\SingleChn.designer.cs">
+      <DependentUpon>SingleChn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\TimeMs.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\TimeMs2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\TimeText.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\UnivasalControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\UnivasalControl.Designer.cs">
+      <DependentUpon>UnivasalControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rewrite Controls\UserForNewDoor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Rewrite Controls\UserForNewDoor.Designer.cs">
+      <DependentUpon>UserForNewDoor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RS232\FrmBusToRS232.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RS232\FrmBusToRS232.Designer.cs">
+      <DependentUpon>FrmBusToRS232.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RS232\frmRS232.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RS232\frmRS232.Designer.cs">
+      <DependentUpon>frmRS232.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RS232\FrmRS232BUS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RS232\FrmRS232BUS.Designer.cs">
+      <DependentUpon>FrmRS232BUS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RS232\Rs232DeviceTypeList.cs" />
+    <Compile Include="RS232\RS232.cs" />
+    <Compile Include="Security\frmSecurity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Security\frmSecurity.Designer.cs">
+      <DependentUpon>frmSecurity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Security\Security.cs" />
+    <Compile Include="Security\SecurityDeviceTypeList.cs" />
+    <Compile Include="Socket\frmManualFunctionLists.Designer.cs">
+      <DependentUpon>frmManualFunctionLists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Socket\frmManualFunctionLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleWay\frmAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleWay\frmAdd.designer.cs">
+      <DependentUpon>frmAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleWay\frmFunctionLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleWay\frmEMain.Designer.cs">
+      <DependentUpon>frmFunctionLists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleWay\frmTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleWay\frmTest.Designer.cs">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleWay\frmTirdPart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SimpleWay\frmTirdPart.Designer.cs">
+      <DependentUpon>frmTirdPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SimpleWay\SimpleFunctionsList.cs" />
+    <Compile Include="Socket\SocketDeviceTypeList.cs" />
+    <Compile Include="Socket\frmSocket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Socket\frmSocket.Designer.cs">
+      <DependentUpon>frmSocket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Socket\Socket.cs" />
+    <Compile Include="Temperature Sensor\frm4Temp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Temperature Sensor\frm4Temp.Designer.cs">
+      <DependentUpon>frm4Temp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Temperature Sensor\T4SensorDeviceTypeList.cs" />
+    <Compile Include="Temperature Sensor\TempSensor.cs" />
+    <Compile Include="Third Part Class\CsINI.cs" />
+    <Compile Include="Third Part Class\XmlHelper.cs" />
+    <Compile Include="Tools\frmSA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\frmSA.Designer.cs">
+      <DependentUpon>frmSA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmBackup.Designer.cs">
+      <DependentUpon>FrmBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\frmIRLibrary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\frmIRLibrary.Designer.cs">
+      <DependentUpon>frmIRLibrary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmRaw.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmRaw.Designer.cs">
+      <DependentUpon>FrmRaw.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmRestrore.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmRestrore.Designer.cs">
+      <DependentUpon>FrmRestrore.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\FrmSignal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\FrmSignal.Designer.cs">
+      <DependentUpon>FrmSignal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\frmTool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\frmTool.Designer.cs">
+      <DependentUpon>frmTool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tools\frmQC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tools\frmQC.Designer.cs">
+      <DependentUpon>frmQC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UDP\HDLSend.cs" />
+    <Compile Include="UDP\HDLUDP.cs" />
+    <Compile Include="UDP\UDPReceive.cs" />
+    <EmbeddedResource Include="12in1\frm12in1.resx">
+      <DependentUpon>frm12in1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7in1\frm7in1.resx">
+      <DependentUpon>frm7in1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8in1\frm8in1.resx">
+      <DependentUpon>frm8in1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Audio\FrmMzBox.resx">
+      <DependentUpon>FrmMzBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Auto Upgrade\frmClient.resx">
+      <DependentUpon>frmClient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bacnet\frmBacNet.resx">
+      <DependentUpon>frmBacNet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Camera NVR\frmCameraNvr.resx">
+      <DependentUpon>frmCameraNvr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Card Reader\FrmMHIC.resx">
+      <DependentUpon>FrmMHIC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color DLP\CurtainForColorDLP.resx">
+      <DependentUpon>CurtainForColorDLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color DLP\FrmCalculateTargetForColorDLP.resx">
+      <DependentUpon>FrmCalculateTargetForColorDLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color DLP\FrmColorDLP.resx">
+      <DependentUpon>FrmColorDLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color DLP\FrmColorDLPACSetup.resx">
+      <DependentUpon>FrmColorDLPACSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color DLP\FrmColorDLPTargets.resx">
+      <DependentUpon>FrmColorDLPTargets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Color DLP\FrmColorDLPUI.resx">
+      <DependentUpon>FrmColorDLPUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CoolMaster\FrmCoolMaster.resx">
+      <DependentUpon>FrmCoolMaster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoorStation\FrmAddNewCard.resx">
+      <DependentUpon>FrmAddNewCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoorStation\FrmColorForDS.resx">
+      <DependentUpon>FrmColorForDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoorStation\frmDS.resx">
+      <DependentUpon>frmDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoorStation\FrmNewDS.resx">
+      <DependentUpon>FrmNewDS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GPRS\frmGPRS.resx">
+      <DependentUpon>frmGPRS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logic\frmLogic.resx">
+      <DependentUpon>frmLogic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Logic\frmLogicPin.resx">
+      <DependentUpon>frmLogicPin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHRCU\FrmACModeSetup.resx">
+      <DependentUpon>FrmACModeSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHRCU\FrmACSetupForRCU.resx">
+      <DependentUpon>FrmACSetupForRCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IrSender\FrmChnAndKey.resx">
+      <DependentUpon>FrmChnAndKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IrSender\FrmNewIREmitor.resx">
+      <DependentUpon>FrmNewIREmitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmCombinationWays.resx">
+      <DependentUpon>FrmCombinationWays.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmDimTemplates.resx">
+      <DependentUpon>frmDimTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmBoundRate.resx">
+      <DependentUpon>FrmBoundRate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHRCU\FrmBusRS232TargetForMHRCU.resx">
+      <DependentUpon>FrmBusRS232TargetForMHRCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHRCU\FrmBusToRS232ForMHRCU.resx">
+      <DependentUpon>FrmBusToRS232ForMHRCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHRCU\FrmMHRCU.resx">
+      <DependentUpon>FrmMHRCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MHRCU\FrmRS232BUSForMHRCU.resx">
+      <DependentUpon>FrmRS232BUSForMHRCU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MiniSensor\FrmMiniSensor.resx">
+      <DependentUpon>FrmMiniSensor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Enviro Panel\frmEnviro.resx">
+      <DependentUpon>frmEnviro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New Enviro Panel\FrmEnviroUI.resx">
+      <DependentUpon>FrmEnviroUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Curtain\frmCurtain.resx">
+      <DependentUpon>frmCurtain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\frmNetModule.resx">
+      <DependentUpon>frmNetModule.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\frmCamera.resx">
+      <DependentUpon>frmCamera.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\FrmColorDLPImageType.resx">
+      <DependentUpon>FrmColorDLPImageType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\FrmEditPanlePicture.resx">
+      <DependentUpon>FrmEditPanlePicture.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\frmHvacRelay.resx">
+      <DependentUpon>frmHvacRelay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\FrmPage.resx">
+      <DependentUpon>FrmPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Device\frmTSensor.resx">
+      <DependentUpon>frmTSensor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dimmer\frmDimmer.resx">
+      <DependentUpon>frmDimmer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DLP\frmDLP.resx">
+      <DependentUpon>frmDLP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DMX\frmDMX.resx">
+      <DependentUpon>frmDMX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EIB\frmEIB.resx">
+      <DependentUpon>frmEIB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FH\frmFH.resx">
+      <DependentUpon>frmFH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GloableForm\frmGScenes.resx">
+      <DependentUpon>frmGScenes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HAI\frmHAI.resx">
+      <DependentUpon>frmHAI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HVAC\frmHVAC.resx">
+      <DependentUpon>frmHVAC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IP Gateway\frmIPMod.resx">
+      <DependentUpon>frmIPMod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IR learner\frmIRlearner.resx">
+      <DependentUpon>frmIRlearner.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IrSender\FrmMultiRemoteSender.resx">
+      <DependentUpon>FrmMultiRemoteSender.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MMC\frmMC.resx">
+      <DependentUpon>frmMC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS04\frmMS04.resx">
+      <DependentUpon>frmMS04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MSPU\FrmMSPU.resx">
+      <DependentUpon>FrmMSPU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Normal Panel\frmPanel.resx">
+      <DependentUpon>frmPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessBar\FrmDownloadShow.resx">
+      <DependentUpon>FrmDownloadShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProcessBar\FrmProcess.resx">
+      <DependentUpon>FrmProcess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Public Setup Froms\frmCmdTemplates.resx">
+      <DependentUpon>frmCmdTemplates.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmACSetup.resx">
+      <DependentUpon>FrmACSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmADVSearchDevice.resx">
+      <DependentUpon>FrmADVSearchDevice.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmCalibrationLux .resx">
+      <DependentUpon>FrmCalibrationLux .cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmCmdSetup.resx">
+      <DependentUpon>frmCmdSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmButtonSetup.resx">
+      <DependentUpon>frmButtonSetup.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmEditClock.resx">
+      <DependentUpon>FrmEditClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmHeatTargets.resx">
+      <DependentUpon>FrmHeatTargets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmInfrared.resx">
+      <DependentUpon>FrmInfrared.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmMAC.resx">
+      <DependentUpon>frmMAC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmModifyAddress.resx">
+      <DependentUpon>frmModifyAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmPassWork.resx">
+      <DependentUpon>FrmPassWork.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmReceiverTargets.resx">
+      <DependentUpon>FrmReceiverTargets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmRefreshFlash.resx">
+      <DependentUpon>frmRefreshFlash.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmRemark.resx">
+      <DependentUpon>frmRemark.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\FrmSlave.resx">
+      <DependentUpon>FrmSlave.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmUpgrade.resx">
+      <DependentUpon>frmUpgrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relay\frmRelay.resx">
+      <DependentUpon>frmRelay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoteController\frmRemote.resx">
+      <DependentUpon>frmRemote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\BackNetID.resx">
+      <DependentUpon>BackNetID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\CCT.resx">
+      <DependentUpon>CCT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\Connetion.resx">
+      <DependentUpon>Connetion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\ConstantLux.resx">
+      <DependentUpon>ConstantLux.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\CurtainChn.resx">
+      <DependentUpon>CurtainChn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\DateAndTime.resx">
+      <DependentUpon>DateAndTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\DIY.resx">
+      <DependentUpon>DIY.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\FrequenceForAudio.resx">
+      <DependentUpon>FrequenceForAudio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\IPAddress.resx">
+      <DependentUpon>IPAddress.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Public Setup Froms\frmSetup.resx">
+      <DependentUpon>frmSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\IRControl.resx">
+      <DependentUpon>IRControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\LogicChannel.resx">
+      <DependentUpon>LogicChannel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\MyImg.resx">
+      <DependentUpon>MyImg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\NetworkInForm.resx">
+      <DependentUpon>NetworkInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\NewIRKeyID.resx">
+      <DependentUpon>NewIRKeyID.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\RelayChn.resx">
+      <DependentUpon>RelayChn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\RelayExclusion.resx">
+      <DependentUpon>RelayExclusion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\RGB.resx">
+      <DependentUpon>RGB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\RGBW.resx">
+      <DependentUpon>RGBW.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\RowMergeView.resx">
+      <DependentUpon>RowMergeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\SingleChn.resx">
+      <DependentUpon>SingleChn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\TimeText.resx">
+      <DependentUpon>TimeText.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\UnivasalControl.resx">
+      <DependentUpon>UnivasalControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rewrite Controls\UserForNewDoor.resx">
+      <DependentUpon>UserForNewDoor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RS232\FrmBusToRS232.resx">
+      <DependentUpon>FrmBusToRS232.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RS232\frmRS232.resx">
+      <DependentUpon>frmRS232.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RS232\FrmRS232BUS.resx">
+      <DependentUpon>FrmRS232BUS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Security\frmSecurity.resx">
+      <DependentUpon>frmSecurity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socket\frmManualFunctionLists.resx">
+      <DependentUpon>frmManualFunctionLists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleWay\frmAdd.resx">
+      <DependentUpon>frmAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleWay\frmFunctionLists.resx">
+      <DependentUpon>frmFunctionLists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleWay\frmTest.resx">
+      <DependentUpon>frmTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SimpleWay\frmTirdPart.resx">
+      <DependentUpon>frmTirdPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Socket\frmSocket.resx">
+      <DependentUpon>frmSocket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Temperature Sensor\frm4Temp.resx">
+      <DependentUpon>frm4Temp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\frmSA.resx">
+      <DependentUpon>frmSA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmBackup.resx">
+      <DependentUpon>FrmBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\frmIRLibrary.resx">
+      <DependentUpon>frmIRLibrary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmRaw.resx">
+      <DependentUpon>FrmRaw.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmRestrore.resx">
+      <DependentUpon>FrmRestrore.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\FrmSignal.resx">
+      <DependentUpon>FrmSignal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\frmTool.resx">
+      <DependentUpon>frmTool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tools\frmQC.resx">
+      <DependentUpon>frmQC.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Auto Upgrade\Firmware &amp; software update list.xls" />
+    <None Include="Auto Upgrade\Firmwares\FW-HDL-MDT0203.433---M32-%282016-05-23%29.bin" />
+    <None Include="Auto Upgrade\Firmwares\PCB.xlsx" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="main.ico" />
+    <Content Include="Resources\delete.bmp" />
+    <None Include="Resources\DS.bmp" />
+    <Content Include="Resources\frame.png" />
+    <None Include="Resources\OFF.bmp" />
+    <None Include="Resources\Menu.png" />
+    <None Include="Resources\Menu3.png" />
+    <None Include="Resources\Menu4.png" />
+    <None Include="Resources\HDL.bmp" />
+    <None Include="Resources\ir_副本_副本.png" />
+    <Content Include="Resources\OK.bmp" />
+    <None Include="Resources\Red.png" />
+    <None Include="Resources\ON.bmp" />
+    <Content Include="Resources\Refresh.bmp" />
+    <Content Include="Resources\s.bmp" />
+    <Content Include="Resources\Save.bmp" />
+    <Content Include="Resources\Sce.png" />
+    <Content Include="Resources\Search.bmp" />
+    <Content Include="Resources\SELECT.ico" />
+    <Content Include="Resources\us.bmp" />
+    <Content Include="Resources\上传.ico" />
+    <Content Include="Resources\下载.ico" />
+    <Content Include="Resources\保存.ico" />
+    <None Include="Resources\包色.png" />
+    <Content Include="Resources\包色1.png" />
+    <Content Include="Resources\复制.ico" />
+    <Content Include="Resources\工具.png" />
+    <Content Include="Resources\帮助.ico" />
+    <Content Include="Resources\打开.ico" />
+    <Content Include="Resources\新建.ico" />
+    <None Include="Resources\湖绿.png" />
+    <None Include="Resources\灯黑.png" />
+    <None Include="Resources\灯黄.png" />
+    <Content Include="Resources\箭头--上.png" />
+    <Content Include="Resources\箭头--下.png" />
+    <Content Include="Resources\箭头--右.png" />
+    <Content Include="Resources\箭头--左1.png" />
+    <Content Include="Resources\粘贴.ico" />
+    <None Include="Resources\紫.png" />
+    <None Include="Resources\绿.png" />
+    <None Include="Resources\蓝.png" />
+    <Content Include="Resources\遥控.ico" />
+    <None Include="Resources\黄.png" />
+    <Content Include="Resources\黑.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Auto Upgrade\Software\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
